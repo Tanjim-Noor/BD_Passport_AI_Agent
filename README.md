@@ -19,6 +19,14 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
+### Agent-only UI (CrewAI outputs only)
+
+Use this version when you want policy/fee/checklist/final report to come only from agent task outputs:
+
+```bash
+streamlit run streamlit_agent_only.py
+```
+
 Open the URL shown by Streamlit (usually `http://localhost:8501`).
 
 ---
