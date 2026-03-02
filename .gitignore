@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+passport_report.md
+passport_report_error.md
