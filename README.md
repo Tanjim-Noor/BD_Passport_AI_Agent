@@ -1,5 +1,11 @@
 # BD Passport AI Agent (Streamlit + CrewAI)
 
+<div style="background-color:#333;padding:12px;border:2px solid #555;border-radius:6px;">
+<h2 style="margin:0;color:#f0f0f0;">🚀 <strong>Demo Video</strong></h2>
+<p style="font-size:1.15em;"><a style="color:#4ea3ff;text-decoration:none;" href="https://drive.google.com/file/d/1tdsXcxWh2f2DAdcJwV67m592HxrFEacp/view?usp=sharing" target="_blank">👉 <strong>Watch the project demo</strong></a></p>
+</div>
+
+
 This project provides a **Bangladesh passport virtual consular assistant** with:
 - Natural-language intake (paste any user text)
 - Agent-based profile interpretation
